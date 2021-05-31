@@ -1,2 +1,1 @@
-# javascript-codes-
-javascript practice 
+# javascript-codes- 
